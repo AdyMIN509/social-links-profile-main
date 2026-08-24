@@ -65,4 +65,6 @@ pnpm-debug.log*
 .turbo/
 *.local
 
-.design/
+design/
+
+*.md
