@@ -156,18 +156,4 @@ In future iterations I'd like to focus on:
 - Frontend Mentor - [@AdyMIN509](https://www.frontendmentor.io/profile/AdyMIN509)
 - GitHub - [@AdyMIN509](https://github.com/AdyMIN509)
 
-Made by **Mbolanantenaina Jean Philippe Christian** the challenge asks for both hover *and* focus states, so I want to add a `:focus-visible` style to the buttons for full keyboard accessibility.
-- **Accessibility details** - giving the avatar image a descriptive `alt` text rather than leaving it empty.
-- **Micro-interactions** - fine-tuning the hover transition timing so the color change feels snappier.
-
-### Useful resources
-
-- [MDN Web Docs - Using CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) - A clear reference that helped me structure my variables.
-- [MDN Web Docs - min()](https://developer.mozilla.org/en-US/docs/Web/CSS/min) - Helped me understand how to make the card width responsive without extra media queries.
-
-## Author
-
-- Frontend Mentor - [@AdyMIN509](https://www.frontendmentor.io/profile/AdyMIN509)
-- GitHub - [@AdyMIN509](https://github.com/AdyMIN509)
-
 Made by **Mbolanantenaina Jean Philippe Christian**
