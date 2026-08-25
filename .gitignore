@@ -67,4 +67,9 @@ pnpm-debug.log*
 
 design/
 
-*.md
+AGENTS.md
+CLAUDE.md
+README-template.md
+style-guide.md
+
+assets/fonts/
